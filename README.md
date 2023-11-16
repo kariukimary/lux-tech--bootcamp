@@ -13,4 +13,4 @@ i  created the table  with the exact column names of my dataset and execute
 
 i  now copied the csv_file to the table in my  postgress database , and data was successfully imported to postgress
 
-#Migrating data to postgress to snowflake
+# Migrating data  from postgress to snowflake
