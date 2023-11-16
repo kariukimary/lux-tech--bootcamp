@@ -12,3 +12,5 @@ i  created the table  with the exact column names of my dataset and execute
 <img width="781" alt="imp3" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/02b2a594-4d1f-498d-83d2-3c78dd483f57">
 
 i  now copied the csv_file to the table in my  postgress database , and data was successfully imported to postgress
+
+#Migrating data to postgress to snowflake
