@@ -36,3 +36,5 @@ data was successfully migrated to snowflake
 
 <img width="957" alt="data to snowflake" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/c2d606cc-1cec-429d-89b5-fd342a982f31">
 
+#Data transformation in snowflake using DBT
+
