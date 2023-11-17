@@ -15,6 +15,8 @@ i  now copied the csv_file to the table in my  postgress database , and data was
 
 # Migrating data  from postgress to snowflake
 i used airbyte to create the connection from postgres to snowflake. i created the connection at airbyte  after getting the details from  cloud database called supabase where i found it easier to create my database once again in an easier way for easier migration of the data. 
-
+creating connection at airbyte
+<img width="511" alt="connection in airbyte" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/60ad3362-cc32-415e-93b3-8586665f2911">
+using supabase to connect the local database with the cloud database
 <img width="954" alt="supabase" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/d547fbd7-2ae3-40fd-91f0-2e80559e7596">
 database 
