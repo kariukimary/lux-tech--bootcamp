@@ -28,3 +28,7 @@ creating the table at snowflake
 
 <img width="960" alt="table_snowflake" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/121514f8-f927-4937-881c-faf70cbd26ef">
 
+syncing data to snowflake
+
+<img width="955" alt="post to snow" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/32654a1c-f95d-45e4-b583-47810e672989">
+
