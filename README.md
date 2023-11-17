@@ -14,3 +14,4 @@ i  created the table  with the exact column names of my dataset and execute
 i  now copied the csv_file to the table in my  postgress database , and data was successfully imported to postgress
 
 # Migrating data  from postgress to snowflake
+i used airbyte to create the connection from postgres to snowflake. i created the connection at airbyte  after getting the details from supabase where i found it easier to create my database once again in an easier way for easier migration of the data. 
