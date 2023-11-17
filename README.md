@@ -24,3 +24,7 @@ using supabase to connect the local database with the cloud database
 
 <img width="954" alt="supabase" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/d547fbd7-2ae3-40fd-91f0-2e80559e7596">
 
+creating the table at snowflake 
+
+<img width="960" alt="table_snowflake" src="https://github.com/kariukimary/lux-tech--bootcamp/assets/133002438/121514f8-f927-4937-881c-faf70cbd26ef">
+
